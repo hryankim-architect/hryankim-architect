@@ -32,7 +32,7 @@ Most public bioinformatics repos focus on the analysis. The differentiator here 
 
 ## Active work — DMOI POC (private, in development)
 
-`dmoi-brca-poc`: Dialectical Multi-Omics Integration on TCGA-BRCA RNA-seq + DNA methylation. Week-1 complete (6 commits, all CI-green).
+`dmoi-brca-poc`: Dialectical Multi-Omics Integration on TCGA-BRCA RNA-seq + DNA methylation. 
 
 Cohort selection landed an honest negative finding: H+ luminal vs H- basal/TN saturated at AUROC = 1.0 across every classifier × feature-set combination. The discrimination target was empirically re-scoped to within-luminal LumA vs LumB (437 LumA / 198 LumB, 417 dual-modality patients).
 
