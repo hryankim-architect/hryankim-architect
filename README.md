@@ -30,6 +30,8 @@ Every repo carries the same honest-scope preamble:
 
 Most public bioinformatics repos focus on the analysis. The differentiator here is doing the same analysis with the engineering substrate that a regulated clinical environment would actually require — audit chain, HITL, drift monitor, deterministic canary, English-only enforced commits.
 
+Across the portfolio the six capability portraits span the axes a clinical-bioinformatics principal is expected to own end to end: pipeline orchestration (`healthomics-lab-orchestrator`), machine learning on operational QC telemetry (`multiqc-foundation-gate`), clinical genomics with survival modeling (`tp53-aml-hrd-severity`), multimodal tumor-microenvironment inference (`hnscc-time-multimodal`), hypothesis-conditioned multi-omics interpretability (`dmoi-brca-poc`, the flagship), and single-cell tumor annotation with copy-number inference (`sc-tumor-annotator`) — all sharing the seventh repo's scaffold. No single project carries the portfolio; the span does.
+
 ---
 
 ## Substrate philosophy
