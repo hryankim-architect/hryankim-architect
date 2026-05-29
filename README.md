@@ -2,7 +2,7 @@
 
 Principal Bioinformatics Scientist with 18+ years across academia, NIH-funded research, and industry — including 5 years leading regulated clinical bioinformatics in oncology (CAR-T, immune checkpoint, companion diagnostics, FDA submissions, multi-vendor CDx partnerships).
 
-Several thousand citations across computational oncology, precision medicine, and chromatin / RNA biology publications. Co-first author on a landmark precision-oncology prospective sequencing cohort; its published dataset is now a training corpus for oncology AI models industry-wide.
+Several thousand citations across computational oncology, precision medicine, and chromatin / RNA biology publications. Co-first author on a landmark precision-oncology molecular-characterization study; co-author on the prospective sequencing cohort whose published dataset is now a training corpus for oncology AI models industry-wide.
 
 The ten repositories below are a **capability-portrait portfolio**: each one is a single, public, clone-and-run slice of regulated clinical bioinformatics, built on the same agentic AI safety substrate (~9,500 LOC). The substrate provides hash-chained NDJSON audit, a three-pattern HITL approval queue, and MLflow integration; its end-to-end smoke test is a chr20 NA12878 GATK deployment producing 62,466 variants with full stage-by-stage audit traceability.
 
